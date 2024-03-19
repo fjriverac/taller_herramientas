@@ -11,6 +11,7 @@ package com.mycompany.prueba_2;
 public class Prueba_2 {
 
     public static void main(String[] args) {
+        // comentario 
         System.out.println("Hello World!");
     }
 }
