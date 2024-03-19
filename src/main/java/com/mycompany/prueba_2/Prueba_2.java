@@ -12,6 +12,7 @@ public class Prueba_2 {
 
     public static void main(String[] args) {
         // comentario 
+        // comentario 2
         System.out.println("Hello World!");
     }
 }
